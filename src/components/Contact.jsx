@@ -3,7 +3,7 @@ const Contact = () => {
     {
       icon: "📧",
       title: "Email",
-      value: "anamikams2003@gmail.com",
+      value: "anamikams.dev@gmail.com",
       link: "mailto:anamikams2003@gmail.com",
       color: "from-blue-500 to-cyan-500"
     },
@@ -165,7 +165,7 @@ const Contact = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:anamikams2003@gmail.com"
+              href="mailto:anamikams.dev@gmail.com"
               className="px-8 py-3 bg-white text-blue-600 font-bold rounded-lg hover:bg-blue-50 transition-all duration-300 transform hover:scale-105"
             >
               Send Email
